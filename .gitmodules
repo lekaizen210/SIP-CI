@@ -2,3 +2,8 @@
 	path = lekaizen210/hr_module_v11
 	url = git@github.com:lekaizen210/hr_module_v11.git
 	branch = master
+
+[submodule "lekaizen210/veone_tools"]
+	path = lekaizen210/veone_tools
+	url = git@github.com:lekaizen210/veone_tools.git
+	branch = v11
